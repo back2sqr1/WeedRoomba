@@ -1,0 +1,15 @@
+/home/david/ros2_ws/install/parc_robot/share/ament_index/resource_index/package_run_dependencies/parc_robot
+/home/david/ros2_ws/install/parc_robot/share/ament_index/resource_index/parent_prefix_path/parc_robot
+/home/david/ros2_ws/install/parc_robot/share/parc_robot/environment/ament_prefix_path.sh
+/home/david/ros2_ws/install/parc_robot/share/parc_robot/environment/ament_prefix_path.dsv
+/home/david/ros2_ws/install/parc_robot/share/parc_robot/environment/path.sh
+/home/david/ros2_ws/install/parc_robot/share/parc_robot/environment/path.dsv
+/home/david/ros2_ws/install/parc_robot/share/parc_robot/local_setup.bash
+/home/david/ros2_ws/install/parc_robot/share/parc_robot/local_setup.sh
+/home/david/ros2_ws/install/parc_robot/share/parc_robot/local_setup.zsh
+/home/david/ros2_ws/install/parc_robot/share/parc_robot/local_setup.dsv
+/home/david/ros2_ws/install/parc_robot/share/parc_robot/package.dsv
+/home/david/ros2_ws/install/parc_robot/share/ament_index/resource_index/packages/parc_robot
+/home/david/ros2_ws/install/parc_robot/share/parc_robot/cmake/parc_robotConfig.cmake
+/home/david/ros2_ws/install/parc_robot/share/parc_robot/cmake/parc_robotConfig-version.cmake
+/home/david/ros2_ws/install/parc_robot/share/parc_robot/package.xml

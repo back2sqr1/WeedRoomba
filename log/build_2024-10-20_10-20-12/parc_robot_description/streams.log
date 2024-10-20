@@ -1,0 +1,1 @@
+[0.038s] Invoking command in '/home/david/ros2_ws/build/parc_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/david/ros2_ws/install/test_publisher:/opt/ros/humble /usr/bin/cmake --build /home/david/ros2_ws/build/parc_robot_description -- -j20 -l20

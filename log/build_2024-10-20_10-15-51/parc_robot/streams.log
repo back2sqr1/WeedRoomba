@@ -1,0 +1,20 @@
+[0.022s] Invoking command in '/home/david/ros2_ws/build/parc_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/david/ros2_ws/build/parc_robot -- -j20 -l20
+[0.347s] Invoked command in '/home/david/ros2_ws/build/parc_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/david/ros2_ws/build/parc_robot -- -j20 -l20
+[0.391s] Invoking command in '/home/david/ros2_ws/build/parc_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/david/ros2_ws/build/parc_robot
+[0.404s] -- Install configuration: ""
+[0.404s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/ament_index/resource_index/package_run_dependencies/parc_robot
+[0.406s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/ament_index/resource_index/parent_prefix_path/parc_robot
+[0.406s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/parc_robot/environment/ament_prefix_path.sh
+[0.406s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/parc_robot/environment/ament_prefix_path.dsv
+[0.406s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/parc_robot/environment/path.sh
+[0.406s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/parc_robot/environment/path.dsv
+[0.406s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/parc_robot/local_setup.bash
+[0.406s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/parc_robot/local_setup.sh
+[0.406s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/parc_robot/local_setup.zsh
+[0.406s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/parc_robot/local_setup.dsv
+[0.407s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/parc_robot/package.dsv
+[0.407s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/ament_index/resource_index/packages/parc_robot
+[0.407s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/parc_robot/cmake/parc_robotConfig.cmake
+[0.407s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/parc_robot/cmake/parc_robotConfig-version.cmake
+[0.407s] -- Up-to-date: /home/david/ros2_ws/install/parc_robot/share/parc_robot/package.xml
+[0.409s] Invoked command in '/home/david/ros2_ws/build/parc_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/david/ros2_ws/build/parc_robot

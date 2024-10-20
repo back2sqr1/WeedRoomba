@@ -1,0 +1,23 @@
+[0.011s] Invoking command in '/home/david/ros2_ws/build/parc_robot_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/david/ros2_ws/install/test_publisher:/opt/ros/humble /usr/bin/cmake --build /home/david/ros2_ws/build/parc_robot_interfaces -- -j20 -l20
+[0.045s] [  3%] Built target parc_robot_interfaces__cpp
+[0.046s] [ 12%] Built target parc_robot_interfaces__rosidl_generator_c
+[0.052s] [ 12%] Built target ament_cmake_python_copy_parc_robot_interfaces
+[0.061s] [ 22%] Built target parc_robot_interfaces__rosidl_typesupport_introspection_cpp
+[0.062s] [ 32%] Built target parc_robot_interfaces__rosidl_typesupport_cpp
+[0.062s] [ 41%] Built target parc_robot_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.064s] [ 51%] Built target parc_robot_interfaces__rosidl_typesupport_c
+[0.064s] [ 61%] Built target parc_robot_interfaces__rosidl_typesupport_fastrtps_c
+[0.065s] [ 70%] Built target parc_robot_interfaces__rosidl_typesupport_introspection_c
+[0.079s] [ 70%] Built target parc_robot_interfaces
+[0.093s] [ 74%] Built target parc_robot_interfaces__py
+[0.110s] [ 80%] Built target parc_robot_interfaces__rosidl_generator_py
+[0.127s] [100%] Built target parc_robot_interfaces__rosidl_typesupport_c__pyext
+[0.127s] [100%] Built target parc_robot_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.128s] [100%] Built target parc_robot_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.207s] running egg_info
+[0.220s] writing parc_robot_interfaces.egg-info/PKG-INFO
+[0.220s] writing dependency_links to parc_robot_interfaces.egg-info/dependency_links.txt
+[0.220s] writing top-level names to parc_robot_interfaces.egg-info/top_level.txt
+[0.256s] reading manifest file 'parc_robot_interfaces.egg-info/SOURCES.txt'
+[0.256s] writing manifest file 'parc_robot_interfaces.egg-info/SOURCES.txt'
+[0.275s] [100%] Built target ament_cmake_python_build_parc_robot_interfaces_egg
