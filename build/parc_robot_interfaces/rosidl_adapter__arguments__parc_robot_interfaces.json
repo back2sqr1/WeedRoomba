@@ -1,6 +1,0 @@
-{
-  "package_name": "parc_robot_interfaces",
-  "non_idl_tuples": [
-    "/home/david/ros2_ws/src/parc_robot_interfaces:msg/CropYield.msg"
-  ]
-}
