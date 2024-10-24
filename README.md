@@ -89,5 +89,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Thanks to the open-source community for providing invaluable tools and libraries.
 - Special thanks to agricultural experts who provided insights into weed management and plant health assessment.
 
-![alt text](images/rviz)
-![alt text](images/map)
+- [Slideshow](https://docs.google.com/presentation/d/10QyvWyEPmUzVczin47Q14VrF7FgZs40yvaU-fPhrElE/edit#slide=id.g2a089cda59d_1_175)
+
